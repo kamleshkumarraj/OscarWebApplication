@@ -12,7 +12,8 @@
     "main": "src/index.jsx",
     "module": "src/index.jsx",
     "dependencies": {
-        "@emotion/react": "^11.11.1",
+        "@emotion/react": "^11.13.3",
+        "@emotion/styled": "^11.13.0",
         "canva-editor": "^1.0.63",
         "canva-editor-demo": "file:",
         "react": "^18.2.0",
